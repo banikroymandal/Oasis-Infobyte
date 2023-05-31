@@ -17,8 +17,6 @@ body {
 
 }
 
-
-
 .container{
     background-color: rgb(253, 245, 245);
     min-height: 100vh;
@@ -35,7 +33,6 @@ body {
     margin: -2px;
     padding: 39px;
   }
-
 
 .img_container{
     border-radius: 0px;
