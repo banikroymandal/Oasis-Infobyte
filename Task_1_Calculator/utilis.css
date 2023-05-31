@@ -1,0 +1,21 @@
+.header{
+  text-align: center;
+  font-weight: 600;
+  color: aliceblue;
+}
+.bg-red{
+  background:red;
+}
+.mx-auto{
+  margin:auto;
+}
+.flex{
+  display:flex;
+}
+.flex-col{
+  flex-direction:column;
+}
+.items-center{
+  align-items:center;
+}
+
